@@ -10,7 +10,7 @@
   "appearance": {
     "default": "dark"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/web-app-manifest-512x512.png",
   "navigation": {
     "tabs": [
       {
@@ -144,10 +144,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/mina-sdk-logo.png",
   "navbar": {
     "links": [
       {
